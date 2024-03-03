@@ -7,7 +7,7 @@ html
 
 body
 { font: normal .80em 'trebuchet ms', arial, sans-serif;
-  background: #ffffff url(background.png) repeat;
+  background: #000000 url(#) repeat;
   color: #FFF;}
 
 p
@@ -117,7 +117,7 @@ ol li
 #logo_text h2
 { font-size: 100%;
   padding: 4px 0 0 0;
-  color: #000;}
+  color: #ffffff;}
 
 #menubar
 { width: 1151px;
